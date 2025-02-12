@@ -6,7 +6,7 @@ This project is a full-stack e-commerce web application inspired by Amazon, buil
 
 * **Product Browsing:** Users can browse products by category, search for specific items, and view detailed product descriptions.
 * **Shopping Cart:**  Users can add products to their cart, update quantities, and remove items.
-* **Checkout Process:** Secure checkout functionality for placing orders.  (Note:  This may be a placeholder for real payment gateway integration in a simplified clone.)
+* **Checkout Process:** Secure checkout functionality for placing orders.
 * **User Authentication:** User registration and login functionality.
 * **Admin Panel:**  A dedicated admin panel for managing products (adding, editing, deleting).
 * **Responsive Design:**  The website is designed to be responsive and work across various screen sizes.
@@ -14,6 +14,6 @@ This project is a full-stack e-commerce web application inspired by Amazon, buil
 
 ## Technologies Used
 
-* **Frontend:** React, HTML, CSS, JavaScript
+* **Frontend:** React, HTML, JavaScript
 * **Backend:** Node.js, Express.js, RESTful API
 * **Database:** MongoDB
