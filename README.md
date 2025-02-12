@@ -14,6 +14,6 @@ This project is a full-stack e-commerce web application inspired by Amazon, buil
 
 ## Technologies Used
 
-* **Frontend:** React, HTML, CSS, JavaScript (mention any specific libraries like Redux, Material-UI, etc.)
+* **Frontend:** React, HTML, CSS, JavaScript
 * **Backend:** Node.js, Express.js, RESTful API
 * **Database:** MongoDB
